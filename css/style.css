@@ -19,18 +19,18 @@ nav {
         position: absolute;
         top: 0;
         font-family: "Cutive" serif;
-        background-color:whitesmoke;
+        background-color:002540;
         font-weight: 500em;
-        padding-top: 1.5em;
-        padding-bottom:1.5em;
+        padding-top: 0.3em;
+        padding-bottom:0.3em;
         position: fixed;
-        text-align: center;
+        text-align: right;
         z-index: 10;
         opacity: 0.8;
         }
 
 nav ul {
-    text-align: center;   
+    text-align: right;   
     }
     
     nav ul li {
