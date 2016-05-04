@@ -12,63 +12,60 @@ body{
 section{ height: 980px; }
 
 
-.g {
-  		padding: 0.25em;
-			overflow: hidden;
-		}
-		.g li {
-			float: left;
-			width: 50%;
-			padding: 0.25em;
-		}
-		.g img {
-			display: block;
-		}
-		.g li:nth-child(odd) {
-			clear: left;
-		}
-	
-		@media screen and (min-width: 40em) {
-			.g li {
-		    	width: 33.3333333333333333%; 
-		  	}
-		  	.g li:nth-child(3n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(odd) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 55em) {
-			.g li {
-		    	width: 25%; 
-		  	}
-		  	.g li:nth-child(4n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(3n+1) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 72em) {
-			.g li {
-		    	width: 20%; 
-		  	}
-		  	.g li:nth-child(5n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(4n+1) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 90em) {
-			.g li {
-		    	width: 16.666666666%; 
-		  	}
-		  	.g li:nth-child(6n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(5n+1) {
-				clear: none;
-			}
-		}
+<html>
+<head>
+<style>
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="img">
+  <a target="_blank" href="marque.svg">
+    <img src="marque.svg" alt="Fjords" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="forest.jpg">
+    <img src="forest.jpg" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="lights.jpg">
+    <img src="lights.jpg" alt="Northern Lights" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="mountains.jpg">
+    <img src="mountains.jpg" alt="Mountains" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+</body>
+</html>
