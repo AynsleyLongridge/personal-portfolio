@@ -13,6 +13,7 @@ section{ height: 980px; }
 
 .gif {height: 1000px;
       width: 1004px;
+    resize: horizontal 1004px;
       align-content: center;
 }
 
