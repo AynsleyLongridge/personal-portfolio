@@ -56,18 +56,18 @@ a:link {
         
 
  a:link {
-        color: #BCF1C8;
+        color: #002540;
         
 }
 
 
 a:visited {
-        color:#BCF1C8;
+        color:#002540;
         text-transform: none;}
 
 
 a:hover {
-    color:dimgrey;
+    color:#BCF1C8;
 }
 
 
