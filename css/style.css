@@ -49,7 +49,7 @@ a:link {
         font-size: 30em;
         letter-spacing: 1px;
         word-spacing: 0.1px;
-        font-size: 100%;
+        font-size: 150%;
         vertical-align: middle;
 }
         
@@ -73,7 +73,7 @@ a:hover {
 /*----------intro------*/
 .intro {
     font-family: 'Glegoo', serif;
-    font-size: 60em;
+    font-size: 20em;
     color: #EF504F;
     text-align: center;
     padding-top: 60px;
