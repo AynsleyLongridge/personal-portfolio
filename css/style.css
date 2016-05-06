@@ -11,6 +11,11 @@ body{
 
 section{ height: 980px; }
 
+.gif {height: 960px;
+      width: 1064px;
+      align-content: center;
+}
+
 /*-------------- navigation -------------*/
 
 
