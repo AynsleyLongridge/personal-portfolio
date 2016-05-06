@@ -11,7 +11,7 @@ body{
 
 section{ height: 980px; }
 
-.gif {
+.gif {resize: 90%;
       align-content: center;
 }
 
