@@ -27,6 +27,8 @@ nav {
         text-align: right;
         z-index: 10;
         opacity: 0.8;
+    text-decoration: underline;
+    text-underline-position: auto;
         }
 
 nav ul {
