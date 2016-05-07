@@ -17,7 +17,7 @@ section{ height: 980px; }
       align-content: center;
 }
 
-.laptop { 
+.laptop { text-align: center;
     position: relative;
     left: 30px;
     margin-top: 9em;
