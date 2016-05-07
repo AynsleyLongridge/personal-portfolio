@@ -22,10 +22,7 @@ section{ height: 980px; }
     margin: auto 0;
 }
        
-.columns {
-    overflow: hidden;
-    width: 100%;
-}
+
 /*-------------- navigation -------------*/
 
 
