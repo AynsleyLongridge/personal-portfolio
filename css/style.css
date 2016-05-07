@@ -17,13 +17,8 @@ section{ height: 980px; }
       align-content: center;
 }
 
-.laptop { text-align: right;
-    padding-left: 400px;
-    padding-top: 140px;
-    margin-top: 180px;
-    padding-bottom: 140px;
-    margin-bottom: 180px;
-    height: 50%;
+.laptop { display: block;
+    margin: auto 0;
 }
        
 
