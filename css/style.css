@@ -18,6 +18,8 @@ section{ height: 980px; }
 }
 
 .laptop { 
+    position: relative;
+    left: 30px;
     margin-top: 9em;
     margin-left: 40px;
     
