@@ -3,7 +3,9 @@ body{
   padding: 0px;}
 
 
-.red { background-color: #FCFCFC; }
+.red { background-color: #FCFCFC; 
+height: 50%;
+}
 .blue { background-color: #002540; }
 .green { background-color: #FCFCFC; }
 .pink { background-color: #FCFCFC; }
@@ -89,7 +91,7 @@ a:hover {
     text-align: center;
     padding-top: 140px;
     margin-top: 180px;
-    
+    height: 50%;
 }
 
 
