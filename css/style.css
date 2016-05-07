@@ -17,7 +17,8 @@ section{ height: 980px; }
       align-content: center;
 }
 
-.laptop { display: block;
+.laptop { column-rule-width: thick;
+    display: block;
     margin: auto 0;
 }
        
