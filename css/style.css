@@ -98,6 +98,7 @@ a:hover {
 .third {font-family: 'Glegoo', serif;
     font-size: 1.2em;
     color: #EF504F;
+    border: 8px;
     text-align: right;
     padding-top: 140px;
     margin-top: 180px;
