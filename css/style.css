@@ -18,10 +18,11 @@ section{ height: 980px; }
 }
 
 .laptop { text-align: center;
-    position: relative;
-    left: 30px;
-    margin-top: 9em;
-    margin-left: 40px;
+    padding-top: 140px;
+    margin-top: 180px;
+    padding-bottom: 140px;
+    margin-bottom: 180px;
+    height: 50%;
 }
        
 
