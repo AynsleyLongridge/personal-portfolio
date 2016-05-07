@@ -15,8 +15,9 @@ section{ height: 980px; }
       align-content: center;
 }
 
-.laptop { padding-left: 4px;
-    padding-top: 5px;
+.laptop { 
+    margin-top: 9em;
+    
        
 }
 
