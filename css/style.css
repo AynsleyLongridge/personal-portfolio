@@ -17,7 +17,8 @@ section{ height: 980px; }
       align-content: center;
 }
 
-.laptop { text-align: center;
+.laptop { text-align: right;
+    padding-left: 400px;
     padding-top: 140px;
     margin-top: 180px;
     padding-bottom: 140px;
