@@ -27,7 +27,7 @@ section{ height: 980px; }
 .interaction { float: left;
     padding-left: 32px;
     padding-right: 5px;
-    
+    margin: 14px 2px 0 0;
 }
 
 /*-------------- navigation -------------*/
