@@ -21,7 +21,9 @@ section{ height: 980px; }
     display: block;
     margin: auto 0;
 }
-.div {float: right;}
+.div {float: 'right 250;z-index:2' ;
+    position: relative;
+    }
 
 /*-------------- navigation -------------*/
 
