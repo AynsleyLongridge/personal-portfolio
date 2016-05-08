@@ -114,7 +114,7 @@ a:hover {
 /*---------grid----------*/
 #photos {
   /* Prevent vertical gaps */
-  line-height: 0;
+  /*--line-height: 0;---*/
    
   -webkit-column-count: 3;
   -webkit-column-gap:   2px;
@@ -126,7 +126,7 @@ a:hover {
 
 #photos img {
   /* Just in case there are inline attributes */
-  width: 100% !important;
+  /*--width: 100% !important;---*/
   height: auto !important;
 }
 
