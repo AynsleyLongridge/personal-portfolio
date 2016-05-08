@@ -25,6 +25,11 @@ section{ height: 980px; }
     position: relative;
     }
 
+img {
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+
 /*-------------- navigation -------------*/
 
 
