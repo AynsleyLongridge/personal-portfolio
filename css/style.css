@@ -21,7 +21,7 @@ section{ height: 980px; }
     display: block;
     margin: auto 0;
 }
-       
+.div {float: right;}
 
 /*-------------- navigation -------------*/
 
@@ -105,9 +105,6 @@ a:hover {
     margin-bottom: 280px;
     height: 70%;
 }
-    
-}
-
 
 
 
