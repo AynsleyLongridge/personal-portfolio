@@ -174,7 +174,7 @@ a:hover {
 
 /*----------*/
 
-#photos {
+#gifs {
    /* Prevent vertical gaps */
    line-height: 0;
    
@@ -188,21 +188,21 @@ a:hover {
     padding-right: 7.2em;
    
 }
-#photos img {
+#gifs img {
   /* Just in case there are inline attributes */
   width: 100%;
   height: auto;
     
 }
 @media (max-width: 800px) {
-  #photos {
+  #gifs {
   -moz-column-count:    2;
   -webkit-column-count: 2;
   column-count:         2;
   }
 }
 @media (max-width: 400px) {
-  #photos {
+  #gifs {
   -moz-column-count:    1;
   -webkit-column-count: 1;
   column-count:         1;
