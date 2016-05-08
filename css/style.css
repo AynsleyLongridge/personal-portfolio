@@ -116,12 +116,13 @@ a:hover {
   /* Prevent vertical gaps */
   line-height: 0;
    
-  -webkit-column-count: 3;
-  -webkit-column-gap:   2px;
-  -moz-column-count:    3;
-  -moz-column-gap:      2px;
-  column-count:         3;
-  column-gap:           2px;  
+  -webkit-column-count: 2;
+  -webkit-column-gap:   6px;
+  -moz-column-count:    2;
+  -moz-column-gap:      6px;
+  column-count:         2;
+    column-rule-width: medium;
+  column-gap:           6px;  
 }
 
 #photos img {
