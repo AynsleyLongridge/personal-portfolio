@@ -115,6 +115,7 @@ a:hover {
 #photos {
   /* Prevent vertical gaps */
   line-height: 0;
+    display: inline-block;
    
   -webkit-column-count: 2;
   -webkit-column-gap:   6px;
