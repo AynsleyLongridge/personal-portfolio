@@ -19,11 +19,6 @@ section{ height: 980px; }
 
 .laptop { border: 80px;
     display: block;
-    margin: auto 0;
-}
-
-
-img {
     float: right;
     margin: 0px 170px 15px 20px;
 
