@@ -207,7 +207,23 @@ a:hover {
   column-count:         1;
   }
 
-
+#pattern { line-height: 0;
+   
+   -webkit-column-count: 2;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    2;
+   -moz-column-gap:      0px;
+   column-count:         2;
+   column-gap:           0px;
+    padding-left: 7.2em;
+    padding-right: 7.2em;
+        
+    }
+    
+    #pattern img {
+  /* Just in case there are inline attributes */
+  width: 100%;
+  height: auto;}
 
 
 
