@@ -126,7 +126,7 @@ a:hover {
 
 #photos img {
   /* Just in case there are inline attributes */
-  /*--width: 100% !important;---*/
+  width: 100% !important;
   height: auto !important;
 }
 
