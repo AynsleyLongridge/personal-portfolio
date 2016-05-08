@@ -16,10 +16,11 @@ height: 50%;
 }
 .blue { background-color: #002540; }
 .green { background-color: #FCFCFC; }
-.pink { background-color: #FCFCFC; }
+
 .black { background-color: #FCFCFC; }
 
-section{ height: 980px; }
+.intro { height: 980px; }
+
 
 .gif {
       align-content: center;
