@@ -111,9 +111,9 @@ a:hover {
     height: 70%;
 }
 
-/*---------grid----------*/
+/*
 #photos {
-  /* Prevent vertical gaps */
+  /* Prevent vertical gaps 
   line-height: 0;
     display: inline-block;
    
@@ -127,10 +127,12 @@ a:hover {
 }
 
 #photos img {
-  /* Just in case there are inline attributes */
+  /* Just in case there are inline attributes 
   width: 100% !important;
   height: auto !important;
 }
+
+
 
 @media (max-width: 1200px) {
   #photos {
@@ -159,11 +161,29 @@ a:hover {
   -webkit-column-count: 1;
   column-count:         1;
   }
-}
+}   
 
 /*----------*/
 
-
+#photos {
+   /* Prevent vertical gaps */
+   line-height: 0;
+   
+   -webkit-column-count: 2;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    2;
+   -moz-column-gap:      0px;
+   column-count:         2;
+   column-gap:           0px;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 1em;
+    padding-bottom: 3em;
+}
+#photos img {
+  /* Just in case there are inline attributes */
+  width: 100%;
+  height: auto;
 
 
 
