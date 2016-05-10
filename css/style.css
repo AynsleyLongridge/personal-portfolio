@@ -216,6 +216,12 @@ a:hover {
   column-count:         1;
   }
 
+    
+/*-----hover-------*/
+    
+    .record:hover {background-image:url(work/recordcovershover.jpg);
+    
+     }
 
 
 
