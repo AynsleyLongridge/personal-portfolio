@@ -229,8 +229,13 @@ align-content: center;
   }
 
     
-/*-----hover-------*/
+/*-----box-------*/
     
+.box{
+    width: 1324px;
+    height: 30px;
+    background-color: #002540;
+    }
  
 
 
