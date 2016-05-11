@@ -11,7 +11,7 @@ body{ width: 100%;
   padding: 0px;}
 
 footer{
-    margin-left: 490px;
+    margin-left: 484px;
     margin-top: 60px;
     display: inline-block;
 }
@@ -47,8 +47,7 @@ height: 50%;
 display: block;
 ;
     
-
-}
+} 
 
 
 .interaction { float: left;
