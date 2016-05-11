@@ -143,6 +143,16 @@ padding-top: 60px;
     line-height: 1em;
 }
 
+.fifth {font-family: 'Glegoo', serif;
+font-size: 1.2em;
+color: #EF504F;
+text-align: center, justify;
+    border: 2em;
+    border-color: #bcf1c8;
+align-content: center;
+padding-top: 20px;
+    padding-bottom: 90px;}
+
 /*
 #photos {
   /* Prevent vertical gaps 
