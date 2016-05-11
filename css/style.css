@@ -10,6 +10,11 @@ body{ width: 100%;
   margin: 0px;
   padding: 0px;}
 
+footer{
+    margin-left: 400px;
+    display: inline-block;
+}
+
 
 
 .red { background-color: #F8F8F8; 
