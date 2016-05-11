@@ -136,11 +136,11 @@ a:hover {
 .fourth {font-family: 'Glegoo', serif;
 font-size: 1.2em;
 color: #EF504F;
-text-align: center;
+text-align: center, justify;
 align-content: center;
-padding-top: 30px;
-    padding-bottom: 60px;
-    line-height: 3em;
+padding-top: 60px;
+    padding-bottom: 90px;
+    line-height: 1em;
 }
 
 /*
