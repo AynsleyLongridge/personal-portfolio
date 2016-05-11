@@ -249,7 +249,7 @@ transform: scale(0.5,0.5);
 }
 
  
-    #social {
+    .social {
     position:relative; 
     text-align: center;
 -ms-transform: scale(0.5,0.5); /* IE 9 */
@@ -261,6 +261,53 @@ transform: scale(0.5,0.5);
 }
 
 
+    
+    
+    
+    /*--------------------MEDIA QUERIES--------------------*/
+        
+/*---------- TABLET ----------------*/
+@media (max-width: 50em) {
+    
+   
+    
+article {
+    width: 95%;
+    padding: 0.5em;
+    } 
+    
+    img {
+    display: block;
+    margin: 1em auto;
+    padding: 0;
+    max-width: 100%;
+    }
+} 
+
+/*----------- SMARTPHONE ----------- */
+ @media (max-width: 30em) {
+    
+   body {
+    margin: auto 0;
+    width: 100%;
+    font-size: 110%;
+    }
+    
+article {
+    width: 75%;
+    } 
+
+h1 {font-size: 2.9em;}   
+
+blockquote p{padding: 0;
+line-height: 1.5em}  
+     
+hgroup h2 {font-size: 1.5em;
+padding-top: 0.5em}  
+     
+nav ul li {font-size: .75em;
+        margin: 10px}
+}
 
 
 
