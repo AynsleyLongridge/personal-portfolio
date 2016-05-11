@@ -238,9 +238,12 @@ align-content: center;
     }
  
     #fixedbutton {
-    position: fixed;
-        align-content: center;
-        resize: 50%;
+    position:relative; 
+    text-align: center;
+-ms-transform: scale(0.5,0.5); /* IE 9 */
+-webkit-transform: scale(0.5,0.5); /* Safari */
+transform: scale(0.5,0.5);
+
     bottom: 0px;
     right: 0px; 
 }
