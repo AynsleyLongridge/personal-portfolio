@@ -236,8 +236,20 @@ align-content: center;
     height: 30px;
     background-color: #002540;
     }
+    
+.instagram {
+    position:relative; 
+    text-align: center;
+-ms-transform: scale(0.5,0.5); /* IE 9 */
+-webkit-transform: scale(0.5,0.5); /* Safari */
+transform: scale(0.5,0.5);
+
+    bottom: 0px;
+    right: 0px; 
+}
+
  
-    #fixedbutton {
+    #social {
     position:relative; 
     text-align: center;
 -ms-transform: scale(0.5,0.5); /* IE 9 */
