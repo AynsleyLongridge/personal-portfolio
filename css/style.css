@@ -69,8 +69,6 @@ nav {
         font-weight: 500em;
         padding-top: 0.3em;
         padding-bottom:0.3em;
-        padding-left: -4em;
-        padding-right: -4em;
         position: fixed;
         text-align: right;
         z-index: 10;
@@ -161,7 +159,7 @@ padding-top: 60px;
     color: #FCFCFC;
   padding: 10px;
   width: 200px;
-    margin-left: 500px;
+    margin-left: 515px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
