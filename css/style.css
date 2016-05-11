@@ -136,6 +136,13 @@ a:hover {
     height: 70%;
 }
 
+.fourth {font-family: 'Glegoo', serif;
+font-size: 1.2em;
+color: #EF504F;
+text-align: center;
+align-content: center;
+}
+
 /*
 #photos {
   /* Prevent vertical gaps 
