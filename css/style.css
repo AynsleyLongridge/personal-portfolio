@@ -238,44 +238,34 @@ transition: opacity .25s ease-in-out;
     background-color: #002540;
     }
     
-.instagram {
-    position:relative; 
-    text-align: center;
--ms-transform: scale(0.5,0.5); /* IE 9 */
--webkit-transform: scale(0.5,0.5); /* Safari */
-transform: scale(0.5,0.5);
-
-    bottom: 0px;
-    right: 0px; 
-}
 
  
 /*---------social-----*/
 
-    .social a {
+#social a {
   opacity: 0.8;
   transition: opacity .25s ease-in-out;
    -moz-transition: opacity .25s ease-in-out;
    -webkit-transition: opacity .25s ease-in-out;
 }
 
-.social a:hover {
+#social a:hover {
   opacity: 0.3;
 }
 
-.social li {
+#social li {
   display: inline;
 margin: 0px;
   color: #444;
 }
 
-.social li img {
+#social li img {
   width: 50px;
     display: inline-block;
     margin-bottom: 40px;
 }
 
-.social {
+#social {
   margin-top; 10px;
   text-align: center;
 
