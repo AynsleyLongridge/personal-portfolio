@@ -294,7 +294,8 @@ transition: opacity .25s ease-in-out;
     background-color: #002540;
     }
     
-
+    footer {display: inline-block;
+    align-content: center;}
  
 /*---------social-----*/
 
