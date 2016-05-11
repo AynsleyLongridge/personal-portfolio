@@ -11,7 +11,7 @@ body{ width: 100%;
   padding: 0px;}
 
 footer{
-    margin-left: 500px;
+    margin-left: 490px;
     margin-top: 60px;
     display: inline-block;
 }
@@ -155,7 +155,7 @@ padding-top: 60px;
   border-radius: 4px;
   background-color: #EF504F;
   font-family: 'Glegoo', serif;
-  border: none;
+border: 30px;
   color: #FFFFFF;
   float: center;
   text-align: center;
