@@ -64,6 +64,7 @@ nav {
     font-family: 'Glegoo', serif;
         position: absolute;
         top: 0;
+    word-spacing: 2em;
         background-color:002540;
         font-weight: 500em;
         padding-top: 0.3em;
