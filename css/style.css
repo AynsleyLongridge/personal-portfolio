@@ -212,6 +212,7 @@ align-content: center;
   /* Just in case there are inline attributes */
   width: 100%;
   height: auto;
+transition: opacity .25s ease-in-out;
     
 }
 @media (max-width: 800px) {
