@@ -3,4 +3,4 @@ Single page personal portfolio site
 
 
 
-[1](https://AynsleyLongridge.github.io/personal-portfolio/version-1.html) 
+[Aynsley Longridge](https://AynsleyLongridge.github.io/personal-portfolio/version-1.html) 
